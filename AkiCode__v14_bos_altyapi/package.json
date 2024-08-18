@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "akicode-v14-bos-altyapi": "file:",
+    "discord.js": "^14.15.3"
+  },
+  "name": "akicode-v14-bos-altyapi",
+  "version": "0.0.1",
+  "description": "AkiCode v14 boş discord bot alt yapısı",
+  "main": "akicode.js",
+  "scripts": {
+    "test": "node akicode.js"
+  },
+  "author": "Akira",
+  "license": "MIT"
+}
